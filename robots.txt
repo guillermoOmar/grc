@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guillermoomar.github.io/grc/sitemap.xml
